@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: devops-prod-app
-        image: ebasangov/devops-prod-pipeline:1.0.0-28
+        image: ebasangov/devops-prod-pipeline:1.0.0-36
         resourses: 
           limits: 
             memory: "256Mi"
